@@ -1,4 +1,4 @@
-# Lab Instructions: Building a Functional Program
+# Lab Instructions: Building a Functional Program.
 
 In this exercise you'll get hands-on practice with functional programming concepts.
 
