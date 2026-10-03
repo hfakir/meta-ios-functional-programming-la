@@ -1,24 +1,5 @@
 # Lab Instructions: Building a Functional Program
 
-In this exercise you'll get hands-on practice with functional programming concepts.
-
-Note: It is best to follow these instructions in the Preview tab on the right side.
-
-> ### **Tips: Before you Begin**
-> #### To view your code and instructions side-by-side, select the following in your VSCode toolbar:
-> - View -> Editor Layout -> Two Columns
-> - To view this file in Preview mode, right click on this README.md file and `Open Preview`
-> - Select your code file in the code tree, which will open it up in a new VSCode tab.
-> - Drag your assessment code files over to the second column. 
-> - Great work! You can now see instructions and code at the same time. 
-> - Questions about using VSCode? Please see our support resources here:  
-    [Visual Studio Code on Coursera](https://www.coursera.org/learn/programming-with-javascript/supplement/roMvE/visual-studio-code-on-coursera)
-> #### **To run your JavaScript code**
-> - Select your JavaScript file
-> - Select the "Run Code" button in the upper right hand toolbar of VSCode. Ex: It looks like a triangular "Play" button. <br><br>
-
-<br>
-
 ## Task 1: Build a function-based console log message generator
 In this exercise, your task is to code a function named `consoleStyler`, which accepts four parameters:
 - `color`
